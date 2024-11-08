@@ -86,8 +86,6 @@ To learn more about setup, and this project, take a look at the following resour
 
 - [How to build a component library with React and TypeScript](https://blog.logrocket.com/how-to-build-component-library-react-typescript/)
 - [Building Efficient npm Packages with React, TypeScript, and CSS Modules: A Comprehensive Guide](https://hackernoon.com/building-efficient-npm-packages-with-react-typescript-and-css-modules-a-comprehensive-guide)
-- [Best Practices for Building JavaScript SDKs With TypeScript](https://medium.com/swlh/best-practices-for-building-javascript-sdks-with-typescript-7192490d9fcc)
-- [What is SDK?](https://www.youtube.com/@IBMTechnology)
 - [How to Create and Publish React TypeScript npm Package With Demo and Automated Build](https://betterprogramming.pub/how-to-create-and-publish-react-typescript-npm-package-with-demo-and-automated-build-80c40ec28aca#7b1c)
 - [Husky and lint-staged for pre-commit in React](https://dev.to/griseduardo/husky-and-lint-staged-for-pre-commit-in-react-39nd)
 - [Rollup Config for React Component Library With TypeScript + SCSS](https://www.codefeetime.com/post/rollup-config-for-react-component-library-with-typescript-scss/)
