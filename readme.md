@@ -5,8 +5,6 @@ Photo by: https://www.ign.com/ - Game of Elden Ring
 
 Starter boilerplate for developing React packages.
 
-````
-
 ## Development 🧑🏻‍💻
 
 ### Run storybook 📚
@@ -17,7 +15,7 @@ npm run storybook
 yarn run storybook
 # or
 pnpm storybook
-````
+```
 
 ### Run tests 🧪
 
