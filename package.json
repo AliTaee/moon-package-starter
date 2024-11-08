@@ -5,6 +5,7 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AliTaee/moon-package-starter.git"
@@ -26,7 +27,6 @@
     "React"
   ],
   "author": "Ali Taei",
-  "license": "free",
   "peerDependencies": {
     "react": ">=16",
     "react-dom": ">=16"
